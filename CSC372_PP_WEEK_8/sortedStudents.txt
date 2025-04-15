@@ -1,0 +1,6 @@
+
+Name: alaric Address: 2 GPA: 2.0
+Name: bonnie Address: 74 right way GPA: 2.0
+Name: damon Address: hohoh GPA: 3.0
+Name: jeremy Address: 101 blue GPA: 3.0
+Name: stephan Address: a GPA: 1.0
