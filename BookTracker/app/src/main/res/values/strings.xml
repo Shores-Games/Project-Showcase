@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BookTracker</string>
+    <string name="heartButton">\"Heart Button\"</string>
+</resources>
